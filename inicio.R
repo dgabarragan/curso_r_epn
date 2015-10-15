@@ -1,2 +1,3 @@
 search()
-ls()
+
+library(raster)
